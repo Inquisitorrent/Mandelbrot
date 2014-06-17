@@ -1,0 +1,4 @@
+Mandelbrot
+==========
+
+Mandelbrot Image Generator
