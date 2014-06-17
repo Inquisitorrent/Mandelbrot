@@ -1,0 +1,5 @@
+C:\dev\Mandelbrot\Mandelbrot\bin\Debug\Mandelbrot.exe.config
+C:\dev\Mandelbrot\Mandelbrot\bin\Debug\Mandelbrot.exe
+C:\dev\Mandelbrot\Mandelbrot\bin\Debug\Mandelbrot.pdb
+C:\dev\Mandelbrot\Mandelbrot\obj\Debug\Mandelbrot.exe
+C:\dev\Mandelbrot\Mandelbrot\obj\Debug\Mandelbrot.pdb
